@@ -1,0 +1,4 @@
+[submodule "./external/libschrift/"]
+	url = https://github.com/tomolt/libschrift
+[submodule "./external/libspng/"]
+	url = https://github.com/randy408/libspng
